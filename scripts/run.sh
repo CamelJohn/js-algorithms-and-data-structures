@@ -1,3 +1,6 @@
 #!/usr/bin/env bash
 
-tsx "./src/problem-solving-patterns/$1/index.ts"
+dir_name=$(echo "$1" | tr '[:upper:]' '[:lower:]' | tr ' ' '-')
+
+
+tsx "./src/problem-solving-patterns/$dir_name/index.ts"

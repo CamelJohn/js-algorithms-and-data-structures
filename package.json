@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "./scripts/run.sh",
-    "problem-solving-pattern": "./scripts/create-problem-solving-pattern.sh"
+    "problem-solving-patterns": "./scripts/generate.sh"
   },
   "repository": {
     "type": "git",

@@ -44,7 +44,7 @@ cat <<EOF > src/$parent_dir_name/$dir_name/$dir_name.md
 
 # Exercise
 
-write a function called \`$dir_name\`
+write a function called \`$func_name\`
 
 \`\`\`typescript
 

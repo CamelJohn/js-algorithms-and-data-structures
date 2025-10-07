@@ -4,7 +4,9 @@
   "description": "this is me, practicing",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "./scripts/run.sh",
+    "problem-solving-pattern": "./scripts/create-problem-solving-pattern.sh"
   },
   "repository": {
     "type": "git",
